@@ -1,8 +1,8 @@
-import com.guidovezzoni.appcenter.Greeting
+import com.guidovezzoni.greeting.Greeting
 
-//apply<com.guidovezzoni.appcenter.GreetingPlugin>()
+//apply<com.guidovezzoni.greeting.GreetingPlugin>()
 plugins {
-  id("com.guidovezzoni.appcenter")
+  id("com.guidovezzoni.greeting")
   id("java-gradle-plugin")
 }
 

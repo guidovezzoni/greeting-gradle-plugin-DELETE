@@ -1,4 +1,4 @@
-package com.guidovezzoni.appcenter;
+package com.guidovezzoni.greeting;
 
 import org.gradle.api.DefaultTask;
 import org.gradle.api.tasks.TaskAction;

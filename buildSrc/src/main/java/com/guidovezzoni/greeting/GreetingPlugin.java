@@ -1,4 +1,4 @@
-package com.guidovezzoni.appcenter;
+package com.guidovezzoni.greeting;
 
 import org.gradle.api.Plugin;
 import org.gradle.api.Project;
